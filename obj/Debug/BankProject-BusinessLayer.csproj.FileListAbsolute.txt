@@ -1,0 +1,27 @@
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\bin\Debug\BankProject-BusinessLayer.dll
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\bin\Debug\BankProject-BusinessLayer.pdb
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\bin\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\bin\Debug\BankProject-DataAccessLayer.pdb
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\obj\Debug\BankProj.AE42CC7C.Up2Date
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.dll
+C:\Users\Windows 10\source\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.pdb
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\bin\Debug\BankProject-BusinessLayer.dll
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\bin\Debug\BankProject-BusinessLayer.pdb
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\bin\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\bin\Debug\BankProject-DataAccessLayer.pdb
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\obj\Debug\BankProj.AE42CC7C.Up2Date
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.dll
+C:\Users\Windows 10\Desktop\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.pdb
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\bin\Debug\BankProject-BusinessLayer.dll
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\bin\Debug\BankProject-BusinessLayer.pdb
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\bin\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\bin\Debug\BankProject-DataAccessLayer.pdb
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\obj\Debug\BankProj.AE42CC7C.Up2Date
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.dll
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-BusinessLayer\obj\Debug\BankProject-BusinessLayer.pdb

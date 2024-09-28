@@ -1,0 +1,18 @@
+C:\Users\Windows 10\source\repos\BankProject-DataAccessLayer\bin\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\source\repos\BankProject-DataAccessLayer\bin\Debug\BankProject-DataAccessLayer.pdb
+C:\Users\Windows 10\source\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\source\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.pdb
+C:\Users\Windows 10\Desktop\repos\BankProject-DataAccessLayer\bin\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\Desktop\repos\BankProject-DataAccessLayer\bin\Debug\BankProject-DataAccessLayer.pdb
+C:\Users\Windows 10\Desktop\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\Desktop\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.pdb
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-DataAccessLayer\bin\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-DataAccessLayer\bin\Debug\BankProject-DataAccessLayer.pdb
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.dll
+C:\Users\Windows 10\Desktop\my code\.NET\repos\BankProject-DataAccessLayer\obj\Debug\BankProject-DataAccessLayer.pdb
